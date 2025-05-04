@@ -45,6 +45,38 @@ Install GitBash
 
 ![image](https://github.com/user-attachments/assets/f0b4115d-2eeb-489f-ab2c-afdef8d80f4f)
 
+Run Commands to enter download folder
+
+![image](https://github.com/user-attachments/assets/72cabc6c-ff29-4b77-a357-a99a4746a3b5)
+
+![image](https://github.com/user-attachments/assets/95259782-d2e8-4885-84d8-b63a6ba27f08)
+
+instances Public Ip Address
+
+![image](https://github.com/user-attachments/assets/e82b7534-d9b9-4268-896c-455e92ef93da)
+
+SSH command
+
+![image](https://github.com/user-attachments/assets/628363dd-2960-47a8-8432-340e11ba1e73)
+
+Sudo Updating 
+
+![image](https://github.com/user-attachments/assets/80c677cb-2571-454b-9f10-890edf0590e2)
+
+![image](https://github.com/user-attachments/assets/9daf2bcf-3d84-4d80-bdd8-5a102c0e6db3)
+
+![image](https://github.com/user-attachments/assets/55b09fac-df53-4bda-9ef8-68a95ca35480)
+
+![image](https://github.com/user-attachments/assets/8ee8b640-f875-4d87-9e56-300b79f37a21)
+
+
+
+
+
+
+
+
+
 
 
 
